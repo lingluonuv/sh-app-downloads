@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https:</string>
+					<string>https://github.com/lingluonuv/sh-app-downloads/raw/master/zj.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https:</string>
+					<string>https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-macos-mail_2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https:</string>
+					<string>https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-macos-mail_2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
